@@ -1,1 +1,6 @@
-K-Means algorithm for Neural Networks course 
+K-Means algorithm for Neural Networks course on 8th semester.
+
+The dataset (data.plants) is provided by UCI's machine learning repository. link : https://archive.ics.uci.edu/ml/datasets/plants
+Now, we do some pre processing before applying k-means on the dataset, and then we get our metrics (Sihouette metric, and Davies–Bouldin index metric)
+The pre-process we do is to order the states as columns, then parse the plants.data and set 1's where the state
+exists, and 0's if doesn't exist.
