@@ -1,4 +1,4 @@
-ab Alabama
+al Alabama
 ak Alaska
 ar Arkansas
 az Arizona
@@ -52,7 +52,7 @@ wv West Virginia
 wi Wisconsin
 wy Wyoming
 
-al Alberta
+ab Alberta
 bc British Columbia
 mb Manitoba
 nb New Brunswick
